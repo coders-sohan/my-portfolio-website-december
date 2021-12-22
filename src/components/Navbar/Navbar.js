@@ -6,7 +6,9 @@ class Navbar extends Component {
 		return (
 			<div>
 				<nav className="navbarItems">
-					<h1 className="navbar-logo">Logo</h1>
+					<h1 className="navbar-logo">
+						Logo <i className="fas fa-user-tie"></i>
+					</h1>
 					<div className="menu-icon"></div>
 					<ul className="menu-list">
 						{MenuItems.map((item, index) => {
