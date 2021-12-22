@@ -1,3 +1,3 @@
 # Welcome to my profile
 
-[Visit website](https://sohan.pro).
+[Visit website](https://sohan.pro)
